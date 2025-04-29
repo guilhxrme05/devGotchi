@@ -1,0 +1,2 @@
+# devGotchi
+Projeto tamagotchi
